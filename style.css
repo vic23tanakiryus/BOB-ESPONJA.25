@@ -23,7 +23,7 @@ body {background-color: rgb(241, 239, 108);
     }
     #ima1 {margin-left: 35%;
       border-style: solid;
-      border-color: rgb(251, 255, 10);
+      border-color: rgb(255, 24, 24);
       border-width: 8px;
     }
    
@@ -34,7 +34,7 @@ body {background-color: rgb(241, 239, 108);
      color: blue; 
     }
 
-.part02{border-color: blue;
+.part02{border-color: rgb(255, 251, 0);
      border-style: outset;
      border-width: 5px;
    margin-left: 30%;
@@ -52,9 +52,10 @@ body {background-color: rgb(241, 239, 108);
 
      #ima2 {margin-left: 35%;
      border-style: solid;
-     border-color: rgb(251, 255, 10);
+     border-color: rgb(255, 108, 10);
      border-width: 8px;
     }   
+
 
 
     .part03{text-align: center;
@@ -83,6 +84,6 @@ body {background-color: rgb(241, 239, 108);
 
      #ima2 {margin-left: 35%;
      border-style: solid;
-     border-color: rgb(251, 255, 10);
+     border-color: rgb(10, 145, 255);
      border-width: 8px;
     }   
