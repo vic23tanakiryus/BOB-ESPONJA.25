@@ -29,10 +29,10 @@ body {background-color: rgb(241, 239, 108);
    
 
 
-.part02{text-align: center;
+    .part02{text-align: center;
       font-size: 150%;
-     color: blue;
-}
+     color: blue; 
+    }
 
 .part02{border-color: blue;
      border-style: outset;
@@ -44,7 +44,7 @@ body {background-color: rgb(241, 239, 108);
      #ima2 {width: 30%;
     }
 
-     .fig02 {background-color: blanchedalmond;
+     .fig01 {background-color: blanchedalmond;
       border-style: solid;
       border-color: rgb(255, 157, 10);
       border-width: 5px;
@@ -57,10 +57,10 @@ body {background-color: rgb(241, 239, 108);
     }   
 
 
-    .part03{text-align: center;
+    .part02{text-align: center;
       font-size: 150%;
-     color: blue;
-}
+     color: blue; 
+    }
 
 .part03{border-color: blue;
      border-style: outset;
@@ -74,7 +74,10 @@ body {background-color: rgb(241, 239, 108);
 
      .fig02 {background-color: blanchedalmond;
       border-style: solid;
-      border-color: rgb(255, 157, 10);
+      border-color: rgb(255, 157, 10);.part02{text-align: center;
+        font-size: 150%;
+       color: blue; 
+      }
       border-width: 5px;
      }
 
