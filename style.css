@@ -27,7 +27,7 @@ body {background-color: rgb(241, 239, 108);
       border-width: 8px;
     }
    
-    .part02{text-align: center;
+.part02{text-align: center;
       font-size: 150%;
      color: blue;
 }
@@ -37,19 +37,20 @@ body {background-color: rgb(241, 239, 108);
      border-width: 5px;
    margin-left: 30%;
    margin-right: 30%;
- }
+    }
 
- #ima2 {width: 30%;
- }
+     #ima2 {width: 30%;
+    }
 
- .fig01 {background-color: blanchedalmond;
+     .fig02 {background-color: blanchedalmond;
    border-style: solid;
    border-color: rgb(255, 157, 10);
    border-width: 5px;
+}
 
- }
- #ima2 {margin-left: 35%;
+     #ima2 {margin-left: 35%;
    border-style: solid;
    border-color: rgb(251, 255, 10);
    border-width: 8px;
- }   
+   
+}   
