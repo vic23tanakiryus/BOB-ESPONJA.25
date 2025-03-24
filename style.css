@@ -27,6 +27,8 @@ body {background-color: rgb(241, 239, 108);
       border-width: 8px;
     }
    
+
+
 .part02{text-align: center;
       font-size: 150%;
      color: blue;
@@ -43,14 +45,41 @@ body {background-color: rgb(241, 239, 108);
     }
 
      .fig02 {background-color: blanchedalmond;
-   border-style: solid;
-   border-color: rgb(255, 157, 10);
-   border-width: 5px;
-}
+      border-style: solid;
+      border-color: rgb(255, 157, 10);
+      border-width: 5px;
+     }
 
      #ima2 {margin-left: 35%;
-   border-style: solid;
-   border-color: rgb(251, 255, 10);
-   border-width: 8px;
-   
-}   
+     border-style: solid;
+     border-color: rgb(251, 255, 10);
+     border-width: 8px;
+    }   
+
+
+    .part03{text-align: center;
+      font-size: 150%;
+     color: blue;
+}
+
+.part03{border-color: blue;
+     border-style: outset;
+     border-width: 5px;
+   margin-left: 30%;
+   margin-right: 30%;
+    }
+
+     #ima2 {width: 30%;
+    }
+
+     .fig02 {background-color: blanchedalmond;
+      border-style: solid;
+      border-color: rgb(255, 157, 10);
+      border-width: 5px;
+     }
+
+     #ima2 {margin-left: 35%;
+     border-style: solid;
+     border-color: rgb(251, 255, 10);
+     border-width: 8px;
+    }   
